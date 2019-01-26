@@ -1,6 +1,3 @@
-/*
-Author: http://webthemez.com 
-*/
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
@@ -376,8 +373,9 @@ p {
 
 .top_cont_outer {
     position: relative;
-    height: 750px;
-    background: url('../img/home2.jpg') no-repeat;
+   /* height: 750px; */
+    height: 850px;
+    background: url('../img/topImage.jpg') no-repeat;
     background-size: cover;
 }
 .top_cont_outer:before{content:'';position:absolute;top:0;width:100%;z-index:5;background: rgba(23, 26, 29, 0.85);height:100%;bottom:0;}
