@@ -991,12 +991,16 @@ margin-bottom: 5px;
     color: #55acee;
 }
 
+.team_box ul li a.fa-twitch:hover {
+    color: #9400D3;
+}
+
 .team_box ul li a.fa-facebook:hover {
     color: #3b5998;
 }
 
-.team_box ul li a.fa-pinterest:hover {
-    color: #cb2026;
+.team_box ul li a.fa-linkedin:hover {
+    color: #283e4a;
 }
 
 .team_box ul li a.fa-google-plus:hover {
@@ -1143,8 +1147,11 @@ border: 1px solid #CE1139;
 
 .social_links li {
     display: inline-block;
-    margin-right: 4px;
+    margin-right: 20px;
     border: 1px solid #757575;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
 }
 
 .social_links li a {
@@ -1166,12 +1173,13 @@ border: 1px solid #CE1139;
     color: #55acee;
 }
 
+
 .facebook a:hover {
     color: #3b5998;
 }
 
-.pinterest a:hover {
-    color: #cb2026;
+.linkedin a:hover {
+    color: #283e4a;
 }
 
 .gplus a:hover {
