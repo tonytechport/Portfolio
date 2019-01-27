@@ -410,7 +410,7 @@ p {
 }
 
 .top_left_cont h2 {
-    font-size: 38px;
+    font-size: 40px;
     color: #FFF;
     margin: 0 0 0px 0;
     font-family: 'Raleway', sans-serif;
@@ -420,11 +420,11 @@ p {
 }
 
 .top_left_cont h2 strong {
-    font-weight: 700;
+    font-weight: 500;
     color: #FFB21F;
 }
 
-.top_left_cont p {color: #B1B1B1;margin: 0 0 50px 0;line-height: 24px;font-size: 14px;text-align: center;letter-spacing: 1px;font-weight: normal;}
+.top_left_cont p {color: #B1B1B1;margin: 0 0 50px 0;line-height: 24px;font-size: 16px;text-align: center;letter-spacing: 1px;font-weight: normal;}
 
 a.read_more, a.read_more2 {
     font-family: 'Raleway', sans-serif;
