@@ -987,25 +987,16 @@ margin-bottom: 5px;
     text-decoration: none;
 }
 
-.team_box ul li a.fa-twitter:hover {
-    color: #55acee;
+.team_box ul li a.fa-file:hover {
+    color: #f7f7f7;
 }
 
-.team_box ul li a.fa-twitch:hover {
-    color: #9400D3;
-}
-
-.team_box ul li a.fa-facebook:hover {
-    color: #3b5998;
-}
 
 .team_box ul li a.fa-linkedin:hover {
     color: #283e4a;
 }
 
-.team_box ul li a.fa-google-plus:hover {
-    color: #dd4b39;
-}
+
  .img-circle {
 border-radius: 50%;
 }
@@ -1169,23 +1160,14 @@ border: 1px solid #CE1139;
     border-radius: 80px;
 }
 
-.twitter a:hover {
-    color: #55acee;
+.file a:hover {
+    color: #FFB21F;
 }
 
-
-.facebook a:hover {
-    color: #3b5998;
-}
 
 .linkedin a:hover {
     color: #283e4a;
 }
-
-.gplus a:hover {
-    color: #dd4b39;
-}
- 
 
 .form {
     margin: 0 66px 0 30px;
